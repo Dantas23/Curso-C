@@ -151,3 +151,6 @@ Experimente digitar este código no Visual Studio, compilar e executar. Tente mo
 Agora que você tem uma compreensão básica da estrutura de um programa C++ e sabe como configurar o ambiente de desenvolvimento, estamos prontos para mergulhar mais fundo nos fundamentos da linguagem. Na próxima seção, exploraremos variáveis e tipos de dados em C++, que são os blocos fundamentais para construir programas mais complexos.
 
 Lembre-se de praticar regularmente escrevendo código. A programação é uma habilidade que se desenvolve com a prática constante. Não tenha medo de experimentar e cometer erros – eles são parte essencial do processo de aprendizagem.
+
+# Próximo
+- [Variáveis e Tipos de Dados](fundamentos/2_variaveis_tipos.md)
