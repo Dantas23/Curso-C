@@ -426,6 +426,7 @@ int main() {
     std::cout << "=== Status do Jogador ===" << std::endl;
     std::cout << "Vida: " << vida << "/100" << std::endl;
     std::cout << "Mana: " << mana << "/15
-(Content truncated due to size limit. Use line ranges to read in chunks)```
+(Content truncated due to size limit. Use line ranges to read in chunks)
+```
 
 ## [Próximo](4_estruturas_controle.md)
