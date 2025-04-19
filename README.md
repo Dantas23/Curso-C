@@ -65,7 +65,7 @@ Vamos começar!
 Este guia está organizado em arquivos separados para facilitar a navegação. Você pode acessar cada seção através dos links abaixo:
 
 ### Fundamentos de C++
-- [Introdução ao C++](../fundamentos/1_introducao.md)
+- [Introdução ao C++](fundamentos/1_introducao.md)
 - [Variáveis e Tipos de Dados](../fundamentos/2_variaveis_tipos.md)
 - [Operadores](../fundamentos/3_operadores.md)
 - [Estruturas de Controle](../fundamentos/4_estruturas_controle.md)
