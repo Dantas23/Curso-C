@@ -66,22 +66,22 @@ Este guia está organizado em arquivos separados para facilitar a navegação. V
 
 ### Fundamentos de C++
 - [Introdução ao C++](fundamentos/1_introducao.md)
-- [Variáveis e Tipos de Dados](../fundamentos/2_variaveis_tipos.md)
-- [Operadores](../fundamentos/3_operadores.md)
-- [Estruturas de Controle](../fundamentos/4_estruturas_controle.md)
-- [Funções](../fundamentos/5_funcoes.md)
+- [Variáveis e Tipos de Dados](fundamentos/2_variaveis_tipos.md)
+- [Operadores](fundamentos/3_operadores.md)
+- [Estruturas de Controle](fundamentos/4_estruturas_controle.md)
+- [Funções](fundamentos/5_funcoes.md)
 
 ### Conceitos Intermediários de C++
-- [Arrays e Strings](../intermediario/1_arrays_strings.md)
-- [Ponteiros e Referências](../intermediario/2_ponteiros_referencias.md)
-- [Estruturas e Classes](../intermediario/3_estruturas_classes.md)
-- [Herança e Polimorfismo](../intermediario/4_heranca_polimorfismo.md)
-- [Tratamento de Exceções](../intermediario/5_tratamento_excecoes.md)
+- [Arrays e Strings](intermediario/1_arrays_strings.md)
+- [Ponteiros e Referências](intermediario/2_ponteiros_referencias.md)
+- [Estruturas e Classes](intermediario/3_estruturas_classes.md)
+- [Herança e Polimorfismo](intermediario/4_heranca_polimorfismo.md)
+- [Tratamento de Exceções](intermediario/5_tratamento_excecoes.md)
 
 ### Exemplos Práticos
-- [Scanner de Memória Básico](../exemplos_praticos/1_memory_scanner.md)
-- [Injeção de DLL em Processos](../exemplos_praticos/2_dll_injection.md)
-- [Hooking de Funções em Jogos](../exemplos_praticos/3_function_hooking.md)
+- [Scanner de Memória Básico](exemplos_praticos/1_memory_scanner.md)
+- [Injeção de DLL em Processos](exemplos_praticos/2_dll_injection.md)
+- [Hooking de Funções em Jogos](exemplos_praticos/3_function_hooking.md)
 
 ## Conclusão
 
