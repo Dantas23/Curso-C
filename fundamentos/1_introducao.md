@@ -152,4 +152,4 @@ Agora que você tem uma compreensão básica da estrutura de um programa C++ e s
 
 Lembre-se de praticar regularmente escrevendo código. A programação é uma habilidade que se desenvolve com a prática constante. Não tenha medo de experimentar e cometer erros – eles são parte essencial do processo de aprendizagem.
 
-[Próximo](fundamentos/2_variaveis_tipos.md)
+## [Próximo](fundamentos/2_variaveis_tipos.md)
